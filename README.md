@@ -6,3 +6,4 @@ Ce repo est créé pour obtenir le badge Pull Shark sur GitHub.
 - Feature 1 ajoutée
 - Feature 2 ajoutée
 - Feature 3
+- Feature 3 added
