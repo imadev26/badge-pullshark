@@ -22,3 +22,4 @@ Ce repo est créé pour obtenir le badge Pull Shark sur GitHub.
 - F15
 - F16
 - F17
+- F18
