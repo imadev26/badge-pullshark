@@ -130,3 +130,4 @@ Ce repo est créé pour obtenir le badge Pull Shark sur GitHub.
 - F123
 - F124
 - F125
+- F126
