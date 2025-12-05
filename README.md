@@ -64,3 +64,6 @@ Ce repo est créé pour obtenir le badge Pull Shark sur GitHub.
 - F57
 - F58
 - F59
+- F60
+- F61
+- F62
