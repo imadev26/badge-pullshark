@@ -96,3 +96,4 @@ Ce repo est créé pour obtenir le badge Pull Shark sur GitHub.
 - F89
 - F90
 - F91
+- F92
