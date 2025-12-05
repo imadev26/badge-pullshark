@@ -28,3 +28,4 @@ Ce repo est créé pour obtenir le badge Pull Shark sur GitHub.
 - F21
 - F22
 - F23
+- F24
